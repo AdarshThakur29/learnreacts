@@ -1,7 +1,7 @@
 {
-  "homepage": "https://AdarshThakur29.github.io/Stone-Paper-Game/",
+  "homepage": "https://AdarshThakur29.github.io/learnreacts/",
   "name": "learneact",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
