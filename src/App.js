@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from './Components/Navbar';
+import Navbar from './Components/NavBar';
 import TextForm from './Components/TextForm';
 import About from './Components/About';
 import React, { useState } from 'react';
